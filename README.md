@@ -1,16 +1,7 @@
-# intermec_printer
+This is an example project for commanding intermec printer on Flutter app UI.
 
-Command Functions in Flutter for Intermec Printer
+Base command functions are written on java in the android files by using intermec's library.
 
-## Getting Started
+And prepared a basic UI on flutter for accessing the library methods via Method Channels.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an old project so excuse the thrash coding please ;;)
